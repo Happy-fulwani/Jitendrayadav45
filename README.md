@@ -1,24 +1,22 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)]
-<h1 align="center">Hi 👋, I'm Jitendra Yadav</h1>
-<h3 align="center">A passionate Data Scientist and Data Structures and Algorithms</h3>
+<h1 align="center">Hi 👋, I'm Happy Fulwani</h1>
+<h3 align="center">A passionate Software Engineer and Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/@jitendra810463" target="blank"><img src="https://img.shields.io/twitter/follow/@jitendra810463?logo=twitter&style=for-the-badge" alt="@jitendra810463" /></a> </p>
 
 - 🌱 I’m currently learning **Python , Dsa , Numpy , Pandas**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jitendrayadav45](https://github.com/Jitendrayadav45)
+- 👨‍💻 All of my projects are available at https://github.com/happy-fulwani
+- 💬 Ask me about **👋 Hi there! I'm Happy, a Computer Science student with a passion for Development and Logic Building Algorithms.
 
-- 💬 Ask me about **👋 Hi there! I'm Jitendra, a Computer Science student with a passion for Data Science and Data Structures & Algorithms.
-
-- 📫 How to reach me **official.jitendraa@gmail.com**
+- 📫 How to reach me **happyfulwani123@gmail.com**
 
 - ⚡ Fun fact **I Am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@jitendra810463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jitendra810463" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jitendra yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jitendra yadav" height="30" width="40" /></a>
+<a href="inkedin.com/in/happy-fulwani-264b60251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Happy Fulwani" height="30" width="40" /></a>
 <a href="https://instagram.com/stax_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stax_code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@official_jitend2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@official_jitend2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/official_jitendra_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="official_jitendra_yadav" height="30" width="40" /></a>
